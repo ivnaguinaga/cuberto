@@ -42,7 +42,7 @@
     .one-column {
         padding: 7%;
         text-align: left;
-        color: white;
+        color: rgb(255, 255, 255);
     }
     
     .two-column {
@@ -60,7 +60,7 @@
         padding: 0% 0% 4% 7%;
         float: left;
         width: 25%;
-        color: white;
+        color: rgb(255, 255, 255);
     }
     
     #section-1 {
